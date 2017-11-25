@@ -70,6 +70,7 @@ algorithms and theorems together with an environment for semi-interactive
 development of machine-checked proofs. 
 [[current stable version](https://coq.inria.fr/download)]
 [[reference manual](https://coq.inria.fr/distrib/current/refman)]
+    * https://github.com/Ptival/PeaCoq
 * [Isabelle](https://isabelle.in.tum.de/) : Isabelle is a generic proof assistant.
  It allows mathematical formulas to be expressed in a formal language and 
  provides tools for proving those formulas in a logical calculus.
