@@ -71,6 +71,7 @@ development of machine-checked proofs.
 [[current stable version](https://coq.inria.fr/download)]
 [[reference manual](https://coq.inria.fr/distrib/current/refman)]
     * https://github.com/Ptival/PeaCoq
+    * https://math-comp.github.io/mcb/
 * [Isabelle](https://isabelle.in.tum.de/) : Isabelle is a generic proof assistant.
  It allows mathematical formulas to be expressed in a formal language and 
  provides tools for proving those formulas in a logical calculus.
@@ -196,7 +197,9 @@ comprehensive, computational foundation for mathematics based on the homotopical
 interpretation of type theory. The type theoretic univalence axiom relates 
 propositional equality on the universe with homotopy equivalence of small types. 
 The program is currently being implemented with the help of the automated proof 
-assistant Coq. 
+assistant Coq.
+
+* https://math-comp.github.io/mcb/
 
 ## Courses
 
