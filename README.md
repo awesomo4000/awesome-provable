@@ -207,6 +207,9 @@ assistant Coq.
 41 Videos about deep specification. Coq videos, examples, tutorials.
 
 * Adam Chlipala Videos:
+
+  * 2017-12-29 CCC Presentation: [Coming Soon Machine-Checked Mathematical Proofs in Everyday Software and Hardware Development](https://media.ccc.de/v/34c3-9105-coming_soon_machine-checked_mathematical_proofs_in_everyday_software_and_hardware_development)
+
   * [Adam Chlipala Lecture 1, OPLSS 2015](https://www.youtube.com/watch?v=ORKAy_CHDYM)
   * [Bedrock: A Software Development Ecosystem Inside a Proof Assistant](https://www.youtube.com/watch?v=BSyrp-iYBMo)
   * [CACM August 2016 - Ur/Web: A Simple Model for Programming the Web](https://www.youtube.com/watch?v=J3XI6-aZZXk)
