@@ -85,6 +85,14 @@ development of machine-checked proofs.
  HOL is particularly suitable as a platform for implementing combinations of 
  deduction, execution and property checking. 
  [[Other HOLS](https://hol-theorem-prover.org/other-hols.html)]
+ * [LEAN](https://leanprover.github.io/) : Lean is a new open source theorem 
+ prover being developed at Microsoft Research, and its standard library at 
+ Carnegie Mellon University. Lean aims to bridge the gap between interactive and 
+ automated theorem proving, by situating automated tools and methods in a framework 
+ that supports user interaction and the construction of fully specified axiomatic 
+ proofs. The goal is to support both mathematical reasoning and reasoning about 
+ complex systems, and to verify claims in both domains.
+   [Online version](https://leanprover.github.io/live/latest/)
 
 ## Projects
 
