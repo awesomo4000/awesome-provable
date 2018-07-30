@@ -85,7 +85,7 @@ development of machine-checked proofs.
  HOL is particularly suitable as a platform for implementing combinations of 
  deduction, execution and property checking. 
  [[Other HOLS](https://hol-theorem-prover.org/other-hols.html)]
- * [LEAN](https://leanprover.github.io/) : Lean is a new open source theorem 
+* [LEAN](https://leanprover.github.io/) : Lean is a new open source theorem 
  prover being developed at Microsoft Research, and its standard library at 
  Carnegie Mellon University. Lean aims to bridge the gap between interactive and 
  automated theorem proving, by situating automated tools and methods in a framework 
@@ -93,6 +93,28 @@ development of machine-checked proofs.
  proofs. The goal is to support both mathematical reasoning and reasoning about 
  complex systems, and to verify claims in both domains.
    [Online version](https://leanprover.github.io/live/latest/)
+* [K Framework](http://www.kframework.org/index.php/Main_Page) : The K framework
+ is a rewrite-based executable semantic framework in which programming languages, 
+ type systems and formal analysis tools can be defined using configurations, 
+ computations and rules. Configurations organize the state in units called cells, 
+ which are labeled and can be nested. Computations carry computational meaning as 
+ special nested list structures sequentializing computational tasks, such as fragments 
+ of program. Computations extend the original language abstract syntax. K (rewrite) 
+ rules make it explicit which parts of the term they read-only, write-only, read-write, 
+ or do not care about. This makes K suitable for defining truly concurrent languages 
+ even in the presence of sharing. Computations are like any other terms in a rewriting 
+ environment: they can be matched, moved from one place to another, modified, or 
+ deleted. This makes K suitable for defining control-intensive features such as 
+ abrupt termination, exceptions or call/cc.
+   * (https://runtimeverification.com/) : Company formed from K Framework people. 
+     Runtime Verification Inc. is currently developing three core products: 
+     * RV-Predict is a predictive runtime analysis tool focused on automatically 
+       detecting concurrency errors in your programs. 
+     * RV-Monitor is a development methodology and library generation tool allowing 
+       for the monitoring and enforcement of user-selected properties at runtime. 
+     * RV-Match is a tool allowing for exhaustive runtime verification to be performed 
+       symbolically on all possible program paths, proving certain properties correct 
+       for all possible executions of a given program.
 
 ## Projects
 
