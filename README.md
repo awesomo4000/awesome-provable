@@ -106,6 +106,7 @@ development of machine-checked proofs.
  environment: they can be matched, moved from one place to another, modified, or 
  deleted. This makes K suitable for defining control-intensive features such as 
  abrupt termination, exceptions or call/cc.
+   * [K Tutorial](http://www.kframework.org/index.php/K_Tutorial) by [Grigore Rosu](https://github.com/grosu), [video playlist](https://www.youtube.com/watch?v=eSaIKHQOo4c&list=PLx_U8qR-tMtLQEDPvVk1y9gTIdUIWGaQd)
    * (https://runtimeverification.com/) : Company formed from K Framework people. 
      Runtime Verification Inc. is currently developing three core products: 
      * RV-Predict is a predictive runtime analysis tool focused on automatically 
