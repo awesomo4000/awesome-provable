@@ -116,6 +116,7 @@ development of machine-checked proofs.
      * RV-Match is a tool allowing for exhaustive runtime verification to be performed 
        symbolically on all possible program paths, proving certain properties correct 
        for all possible executions of a given program.
+* [Viper](https://www.pm.inf.ethz.ch/research/viper.html) : Viper (Verification Infrastructure for Permission-based Reasoning) is a language and suite of tools developed at ETH Zurich, providing an architecture on which new verification tools and prototypes can be developed simply and quickly. It comprises a novel intermediate verification language, also named Viper, and automatic verifiers for the language, as well as example front-end tools. The Viper toolset can be used to implement verification techniques for front-end programming languages via translations into the Viper language. ETH Zurich has built several verifiers on top of Viper, including the [Gobra](https://www.pm.inf.ethz.ch/research/gobra.html) verifier for Go, [Nagini](https://www.pm.inf.ethz.ch/research/nagini.html) for Python and [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) for Rust.
 
 ## Projects
 
