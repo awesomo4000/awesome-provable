@@ -62,6 +62,13 @@ declaratively creating web browser-based graphical user interfaces.
 Implemented in Haskell. It generates JavaScript with great performance and 
 *no runtime exceptions*.
 
+* [SPARK](https://en.wikipedia.org/wiki/SPARK_(programming_language)) : A subset
+of [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)) designed for
+deductive formal verification, with preconditions, postconditions, loop invariants,
+and termination variants. Supports modular, incremental verification of absence
+of runtime errors and functional correctness. The toolchain can be installed through
+the [Alire](https://alire.ada.dev/) package manager.
+
 ## Proof Assistants
 
 * [Coq](https://coq.inria.fr/) : Coq is a formal proof management system. It 
